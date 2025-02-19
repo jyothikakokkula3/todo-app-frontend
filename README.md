@@ -16,7 +16,7 @@ This is the frontend of a simple To-Do App built using React.js. It allows users
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-app-frontend.git
+   git clone https://github.com/jyothikakokkula3/todo-app-frontend.git
    ```
 2. Navigate to the project directory:
    ```sh
